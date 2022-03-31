@@ -68,7 +68,7 @@ DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_TAGS_INLINE = True
 TAGS_URL = "tags.html"
 CATEGORIES_URL = "categories.html"
-#MENUITEMS = [('About', '/blog/pages/about/index.html')]
+#MENUITEMS = [('About', '/blog/w6_40923221.html')]
 #SHOW_ARTICLE_AUTHOR = True
 
 #MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
