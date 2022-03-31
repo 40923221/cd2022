@@ -11,7 +11,7 @@
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="yen.20170108171733.1"><vh>@path ../</vh>
-<v t="leo.20180115150519.1"><vh>@edit w6_40923221.html</vh></v>
+<v t="leo.20180115150519.1"><vh>@edit index.html</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
 <v t="leo.20170908162839.1"><vh>沒有 disqus 論壇</vh>
 <v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
@@ -48,14 +48,15 @@
 </v>
 </v>
 <v t="yen.20170108171733.71"><vh>@path markdown</vh>
+<v t="leo.20220331160141.1"><vh>@auto 20200813.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
-<v t="leo.20180115115910.1"><vh>2020</vh>
-<v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
+<v t="leo.20180115115910.1"><vh>2022</vh>
+<v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
 </v>
 </v>
