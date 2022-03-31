@@ -1,3 +1,3 @@
 cd ..
 cd ..
-cd tmp/cd2022_bg4-1
+cd tmp/cd2022_bg4
