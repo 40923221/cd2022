@@ -142,7 +142,13 @@ img.add_border {
     <div id="tipue_search_content">About << <a href='About.html'>Previous</a> <a href='run.html'>Next</a> >> run<br /><h1>問題紀錄</h1>
 <p><em>3/23</em> <strong>wink</strong>上傳後卻無法讀取，解決方法：</p>
 <p>將<em><strong>.gitignore</strong></em>內部的<em><strong>downloads/</strong></em>刪除(將git忽略的資料夾名單中刪除downloads)</p>
-<p></p><br />About << <a href='About.html'>Previous</a> <a href='run.html'>Next</a> >> run</div>
+<hr/>
+<p><em>3/31 </em><strong>blog</strong>打開後是進入<em>index.html</em>而非新增的<em>w6_40923221.html</em>，解決方法：</p>
+<p>進入<em><strong>content</strong></em>內部的<em>index.html</em>將</p>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">&lt;li&gt;&lt;a href="./../blog/index.html"&gt;blog&lt;/a&gt;&lt;/li&gt;</pre>
+<p>修改成</p>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">&lt;li&gt;&lt;a href="./../blog/w6_40923221.html"&gt;blog&lt;/a&gt;&lt;/li&gt;</pre>
+<hr/><br />About << <a href='About.html'>Previous</a> <a href='run.html'>Next</a> >> run</div>
         
     <!-- footer -->
       <div class="container">
