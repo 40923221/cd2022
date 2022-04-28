@@ -58,9 +58,9 @@
 <v t="leo.20180115115910.1"><vh>2022</vh>
 <v t="leo.20220407153140.1"><vh>W7</vh></v>
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
-<v t="leo.20220407153140.2"><vh>@edit w7.md</vh></v>
-<v t="leo.20220421080025.1"><vh>@edit w8.md</vh></v>
-<v t="leo.20180423103656.1"><vh>@edit w6.md</vh></v>
+<v t="leo.20220407153140.2"><vh>@edit w7_summy.md</vh></v>
+<v t="leo.20220421080025.1"><vh>@edit midterm.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit w6_40923221.md</vh></v>
 <v t="leo.20220428162809.1"><vh>@edit w10.md</vh></v>
 </v>
 </v>
