@@ -58,10 +58,12 @@
 <v t="leo.20180115115910.1"><vh>2022</vh>
 <v t="leo.20220407153140.1"><vh>W7</vh></v>
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
-<v t="leo.20220407153140.2"><vh>@edit w7_summy.md</vh></v>
-<v t="leo.20220421080025.1"><vh>@edit midterm.md</vh></v>
-<v t="leo.20180423103656.1"><vh>@edit w6_40923221.md</vh></v>
-<v t="leo.20220428162809.1"><vh>@edit w10.md</vh></v>
+<v t="leo.20220407153140.2"><vh>@edit 4.md</vh></v>
+<v t="leo.20220421080025.1"><vh>@edit 20220421.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
+<v t="leo.20220428165805.1"><vh>@edit w10.md</vh></v>
+<v t="leo.20220428170103.1"><vh>@edit nx.md</vh></v>
+<v t="leo.20220428170257.1"><vh>@edit ssh.md</vh></v>
 </v>
 </v>
 </v>

@@ -1,9 +1,9 @@
 ---
-Title: 協同產品設計w10_block_ui
+Title: 協同產品設計w10_nx_integ
 Date: 2022-4-28
 Category: Misc
 Tags: 2022SpringCD
-Slug: w10_block_ui
+Slug: w10_nx_integ
 Author: 40923221
 ---
 
@@ -13,7 +13,7 @@ Author: 40923221
 
 影片
 ---
-https://40923221.github.io/cd2022/downloads/w10_block_ui.mp4
+https://40923221.github.io/cd2022/downloads/w10_nx_integ.mp4
 
 
 
